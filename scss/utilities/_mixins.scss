@@ -53,3 +53,10 @@
 	height: $h;
 	display: $disp;
 }
+
+@mixin doubly($margin: 1em) {
+  & + & {
+    margin-left: $margin;
+    @content;
+  }
+}

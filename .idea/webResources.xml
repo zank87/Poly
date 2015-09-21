@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebResourcesPaths">
+    <contentEntries>
+      <entry url="file://$PROJECT_DIR$">
+        <entryData>
+          <resourceRoots>
+            <path value="file://$PROJECT_DIR$/scss" />
+            <path value="file://$PROJECT_DIR$/scss/utilities" />
+            <path value="file://$PROJECT_DIR$/scss/states" />
+            <path value="file://$PROJECT_DIR$/scss/modules" />
+            <path value="file://$PROJECT_DIR$/scss/layout" />
+            <path value="file://$PROJECT_DIR$/scss/base" />
+          </resourceRoots>
+        </entryData>
+      </entry>
+    </contentEntries>
+  </component>
+</project>

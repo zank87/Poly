@@ -60,6 +60,14 @@ blockquote {
   border-left: solid em(8px, 24px) palette(grey, xx-light);
 }
 
+// Images
+
+img {
+  margin-bottom: em(24px);
+  max-width: 100%;
+  height: auto;
+}
+
 // Lists
 
 ul,
